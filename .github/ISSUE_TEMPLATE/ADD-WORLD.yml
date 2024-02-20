@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thanks for contributing to the world blacklist! Please fill ouw these details below:
   - type: input
     id: worldid
     attributes:
