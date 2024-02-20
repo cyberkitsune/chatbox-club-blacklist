@@ -22,4 +22,6 @@ You should be able to fetch the latest raw blacklist file with [this URL](https:
 }
 ```
 
+I utilize this in my own OSC now playing script, written in Python. Feel free to check the code [as an example.](https://github.com/cyberkitsune/vrc-osc-scripts/blob/main/VRCNowPlaying/blacklist.py)
+
 If you have any suggestions, questions, or other thoughts feel free to discuss on my [Discord](https://discord.gg/QhTpc8Zz) as well!
