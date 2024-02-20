@@ -39,6 +39,7 @@
         {"id": "wrld_0bbe0a68-4b3c-4443-887c-720b4b79a901", "name": "Pool Party", "comment": "Added by AliceD"},
         {"id": "wrld_3fa6626f-beae-49b3-9ec0-6b318d211b0c", "name": "PopUp Studio", "comment": "Added by AliceD"},
         {"id": "wrld_3c0aa811-7ee8-4013-b870-7c91b1fb4c9f", "name": "Underground Hideout", "comment": "Added by AliceD"},
-        {"id": "wrld_5a39ec00-f68f-4792-a3ac-f9c63e31ca3d", "name": "Moon Diner", "comment": "Added by AliceD"}
+        {"id": "wrld_5a39ec00-f68f-4792-a3ac-f9c63e31ca3d", "name": "Moon Diner", "comment": "Added by AliceD"},
+        {"id": "wrld_e63fa5e2-f58d-4091-922c-c0c77227846d", "name": "The Dark Side Hangar", "comment": "Requested by CopperTFox"}
     ]
 }
