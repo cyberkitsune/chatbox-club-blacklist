@@ -20,7 +20,7 @@ If you want to use an OSC Now Playing chatbox that utilizes this list, here's a 
 ## For OSC Chatbox Script Developers
 Please implement (or at least add the option) of utilizing the blacklist. I made it exposed in a simple JSON format, so it should be supported cross language and still will be supported with a similar response format if we switch to an API approach.
 You should be able to fetch the latest raw blacklist file with [this URL](https://github.com/cyberkitsune/chatbox-club-blacklist/raw/master/npblacklist.json) -- the format is roughly as follows:
-```json
+```jsonc
 {
   "updated": 0, // Always 0 for git
   "source": "git", // Always git for git
