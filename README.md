@@ -25,3 +25,11 @@ You should be able to fetch the latest raw blacklist file with [this URL](https:
 I utilize this in my own OSC now playing script, written in Python. Feel free to check the code [as an example.](https://github.com/cyberkitsune/vrc-osc-scripts/blob/main/VRCNowPlaying/blacklist.py)
 
 If you have any suggestions, questions, or other thoughts feel free to discuss on my [Discord](https://discord.gg/QhTpc8Zz) as well!
+
+## Guidelines for Addition / Removal
+* If you're the world creator, we will add your world to the list under any circumstances if requested by you.
+* If you're not the world creator, generally we're looking for:
+  * Worlds where engaging with music or a live performance is the primary goal
+  * Worlds where broadcasting a player's current playing media is generally frowned upon
+
+Additionally, if you are the creator of a world on this list, and wish to __not__ be on it, feel free to open a [Github Issue](https://github.com/cyberkitsune/chatbox-club-blacklist/issues/new/choose) or contact CyberKitsune on [Discord](https://discord.gg/QhTpc8Zz) and we will happily remove your world from the list.
