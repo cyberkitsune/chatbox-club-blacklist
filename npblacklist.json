@@ -27,6 +27,10 @@
         {"id": "wrld_62b72c11-b85a-476a-80f0-edf5aa4c4088", "name": "HOUSE", "comment": "Added by Krey"},
         {"id": "wrld_e6b9da43-5c86-4fa8-a4f8-ef220bd161a7", "name": "HOUSE X ［REDACTED］", "comment": "Added by Krey"},
         {"id": "wrld_1e5a5c6f-12d6-48df-9003-5bfe9f1e749e", "name": "VRU - OASIS", "comment": "Added by CyberKitsune -- Twitter Request"},
-        {"id": "wrld_5240325c-0202-4575-a196-49fef5576196", "name": "VRU - Oasis （2․0)", "comment": "Added by CyberKitsune -- Twitter Request"}
+        {"id": "wrld_5240325c-0202-4575-a196-49fef5576196", "name": "VRU - Oasis （2․0)", "comment": "Added by CyberKitsune -- Twitter Request"},
+        {"id": "wrld_2b4e202e-d524-4eda-8b66-025ebb353555", "name": "Krypto's Basement", "comment": "Added by Vesturo -- for Kryptonite"},
+        {"id": "wrld_fbd50fe9-6d1a-4c82-9999-ce29c6c6fb0b", "name": "The Coil", "comment": "Added by Vesturo -- for Kryptonite"},
+        {"id": "wrld_64779e62-0721-495f-a45c-13445a0463f4", "name": "Server Room v2", "comment": "Added by Vesturo -- for Kryptonite"},
+        {"id": "wrld_da8a24ec-915b-450f-a07e-95c23848bc45", "name": "Synthetik", "comment": "Added by Vesturo -- Myriad public use world"}
     ]
 }
