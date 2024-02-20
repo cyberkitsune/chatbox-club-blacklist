@@ -1,0 +1,42 @@
+name: Blacklist addition request
+description: Request to add a world to the chatbox blacklist
+title: "[Addition]: WORLD NAME"
+labels: ["worldaddition"]
+assignees:
+  - cyberkitsune
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: worldid
+    attributes:
+      label: World ID
+      description: The World ID of the World you wish to be added.
+      placeholder: wrld_b2d9f284-3a77-4a8a-a58e-f8427f87ba79
+    validations:
+      required: false
+  - type: input
+    id: worldname
+    attributes:
+      label: World Name
+      description: The human-readable name of the World you are requesting.
+      placeholder: Club Orion
+    validations:
+      required: false
+  - type: input
+    id: worldurl
+    attributes:
+      label: World URL
+      description: URL of the world on VRChat's site
+      placeholder: https://vrchat.com/home/world/wrld_b2d9f284-3a77-4a8a-a58e-f8427f87ba79
+    validations:
+      required: false
+  - type: textarea
+    id: comments
+    attributes:
+      label: Comments
+      description: Anything else you'd wish to note?
+    validations:
+      required: false
