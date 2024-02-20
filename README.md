@@ -7,6 +7,7 @@ Currently, it is hosted here on GitHub, and goes only off of worlds that have op
 Feel free to submit your club world to this list by either:
 * If comfortable, edit the [Blacklist file](https://github.com/cyberkitsune/chatbox-club-blacklist/blob/master/npblacklist.json) here on Github and create a pull request.
 * Creating a [Github Issue](https://github.com/cyberkitsune/chatbox-club-blacklist/issues/new/choose) to have the world added, if you do not wish to create a pull request.
+  * Please submit only one world per issue, to make spot-checking everything a bit easier!
 * Contact CyberKitsune on Discord so I can add the world on your behalf, using my #club-blacklist channel on my OSC Projects Server: [Invite Link](https://discord.gg/QhTpc8Zz)
 
 ## For OSC Chatbox Script Developers
