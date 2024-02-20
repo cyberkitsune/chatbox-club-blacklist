@@ -10,6 +10,11 @@ Feel free to submit your club world to this list by either:
   * Please submit only one world per issue, to make spot-checking everything a bit easier!
 * Contact CyberKitsune on Discord so I can add the world on your behalf, using my #club-blacklist channel on my OSC Projects Server: [Invite Link](https://discord.gg/QhTpc8Zz)
 
+## For Players
+If you want to use an OSC Now Playing chatbox that utilizes this list, here's a non-comprehensive list (OSC Devs feel free to PR your script too):
+* CyberKitsune's [VRCNowPlaying](https://github.com/cyberkitsune/vrc-osc-scripts)
+* VolcanicArts' [VRCOSC](https://github.com/VolcanicArts/VRCOSC) (Nightly only, stable release coming soon)
+
 ## For OSC Chatbox Script Developers
 Please implement (or at least add the option) of utilizing the blacklist. I made it exposed in a simple JSON format, so it should be supported cross language and still will be supported with a similar response format if we switch to an API approach.
 You should be able to fetch the latest raw blacklist file with [this URL](https://github.com/cyberkitsune/chatbox-club-blacklist/raw/master/npblacklist.json) -- the format is roughly as follows:
