@@ -1,5 +1,5 @@
 # Chatbox Club Blacklist
-[![JSON Syntax Check](https://github.com/cyberkitsune/chatbox-club-blacklist/actions/workflows/verify-json.yml/badge.svg?branch=master)](https://github.com/cyberkitsune/chatbox-club-blacklist/actions/workflows/verify-json.yml)
+[![JSON Syntax Check](https://github.com/cyberkitsune/chatbox-club-blacklist/actions/workflows/verify-json.yml/badge.svg)](https://github.com/cyberkitsune/chatbox-club-blacklist/actions/workflows/verify-json.yml)
 
 The purpose of this repo is to collect World IDs and World Names of VRChat worlds where it would not be good etiquette to display a "Now Playing" chatbox message. Club worlds or other worlds where the primary purpose is to experience a Live DJ or share in experiencing a performance of some kind.
 
