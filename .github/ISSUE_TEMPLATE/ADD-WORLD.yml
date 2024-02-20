@@ -48,3 +48,5 @@ body:
       options:
         - label: The world I am requesting meets the [guidelines.](https://github.com/cyberkitsune/chatbox-club-blacklist?tab=readme-ov-file#guidelines-for-addition--removal)
           required: true
+        - label: The world I am requesting is not already on the [current blacklist.](https://github.com/cyberkitsune/chatbox-club-blacklist/blob/master/npblacklist.json)
+          required: true
