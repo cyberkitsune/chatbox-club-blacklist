@@ -19,9 +19,10 @@ jobs:
           script: |
             import json
             seen_ids = []
-            js = json.load("npblacklist.json")
-            for world in js['worlds']:
-                if world['id'] not in seen_ids:
-                  seen_ids.append(world['id'])
-                else:
-                  raise Exception(f"Duplicate world found! {world['id']}")
+            with open("npblacklist.json", 'r') as f:
+              js = json.load(f)
+              for world in js['worlds']:
+                  if world['id'] not in seen_ids:
+                    seen_ids.append(world['id'])
+                  else:
+                    raise Exception(f"Duplicate world found! {world['id']}")
