@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - '**.json'
+      - '.github/workflows/**.yml'
   pull_request:
 
 jobs:
