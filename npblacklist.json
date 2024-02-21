@@ -45,6 +45,18 @@
         {"id": "wrld_2d877f26-c0d5-42df-8ec0-42312880fb4e", "name": "Club Jordan", "comment": "Added by damoggen"},
         {"id": "wrld_45d03f6b-471c-4e8d-9540-19b1f62ebb03", "name": "the corner apartment", "comment": "Added by damoggen -- for wake24"},
         {"id": "wrld_b8c125c7-4389-47d2-b4a9-a0133164402c", "name": "googie house", "comment": "Added by damoggen -- for wake24"},
-        {"id": "wrld_5222d05b-d131-40b4-8bbd-d2fa7d895105", "name": "The Ritual Room", "comment": "Requested by LoKeyMusic"}
+        {"id": "wrld_5222d05b-d131-40b4-8bbd-d2fa7d895105", "name": "The Ritual Room", "comment": "Requested by LoKeyMusic"},
+        {"id": "wrld_fd68972d-65a4-44e9-8697-164ed283da02", "name": "The Boiler Room", "comment": "Requested by GiggleLord"},
+        {"id": "wrld_7db7862d-587c-4fb3-ad97-43197fb20030", "name": "SONAR - The Vault", "comment": "Requested by GiggleLord"},
+        {"id": "wrld_c580f1ec-6ebb-48a8-832f-3a40d5935cb6", "name": "SONAR - Centrifuge", "comment": "Requested by GiggleLord"},
+        {"id": "wrld_2d646ce9-253f-4f96-802b-a22824247d07", "name": "SONAR - The Spillways", "comment": "Requested by GiggleLord"},
+        {"id": "wrld_dedf5bc4-8d5e-490e-ae38-9145f0e111c0", "name": "SONAR x RIFT - Centrifuge", "comment": "Requested by GiggleLord"},
+        {"id": "wrld_42697837-82f8-4393-9765-fec4bd790f8c", "name": "SONAAR - Underpass", "comment": "Requested by GiggleLord"},
+        {"id": "wrld_26d44e14-3c3d-4b7d-945e-49748e4a15bf", "name": "Quantum Networks", "comment": "Requested by GiggleLord"},
+        {"id": "wrld_9edf4930-bcdd-49ec-9b78-cc7fa8e0c5a6", "name": "HEX", "comment": "Requested by GiggleLord"},
+        {"id": "wrld_34fea166-1806-4a02-a848-02c3f8e580c8", "name": "QCC Oasis", "comment": "Requested by GiggleLord"},
+        {"id": "wrld_ea61d6d8-c7d9-425b-af5d-21a8d0bab466", "name": "Club Penguin Nightclub", "comment": "Requested by GiggleLord"},
+        {"id": "wrld_3c69c123-6e37-4f5c-a580-b623e95b7141", "name": "The Hangar", "comment": "Requested by GiggleLord"},
+        {"id": "wrld_1e2f2a64-c06f-45dd-941b-a2047e4db556", "name": "Solaris", "comment": "Requested by GiggleLord"}
     ]
 }
