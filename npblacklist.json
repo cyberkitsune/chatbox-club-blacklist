@@ -59,6 +59,9 @@
         {"id": "wrld_3c69c123-6e37-4f5c-a580-b623e95b7141", "name": "The Hangar", "comment": "Requested by GiggleLord"},
         {"id": "wrld_1e2f2a64-c06f-45dd-941b-a2047e4db556", "name": "Solaris", "comment": "Requested by GiggleLord"},
         {"id": "wrld_882e06f6-8dcb-4362-98e4-37f0dbbc68f4", "name": "The Citadel", "comment": "Requested by Mox (author)"},
-        {"id": "wrld_89b29f3e-85a7-4236-aafd-6fd95f33473a", "name": "Scratch - NightClub and Lounge", "comment": "Added by CyberKitsune"}
+        {"id": "wrld_89b29f3e-85a7-4236-aafd-6fd95f33473a", "name": "Scratch - NightClub and Lounge", "comment": "Added by CyberKitsune"},
+        {"id": "wrld_03554e91-184f-4a04-9493-dbf402391185", "name": "Papasitos Club 5.0", "comment": "ElPecado's public world, Added by valenvrc"},
+        {"id": "wrld_5dd1d318-c761-48ea-a08b-a967f8d8aa45", "name": "El Xtasis 法悦 Spanish Club（Beta", "comment": "Added by valenvrc"},
+        {"id": "wrld_6df5f239-69c2-45bc-9040-be9ba2dde30f", "name": "Eupho Club", "comment": "Added by valenvrc"}
     ]
 }
