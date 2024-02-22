@@ -6,11 +6,12 @@ The purpose of this repo is to collect World IDs and World Names of VRChat world
 Currently, it is hosted here on GitHub, and goes only off of worlds that have opted-in to being Blacklisted. In the future I may set up a better web API that also takes into consideration the world's tags. This is primarily an initial approach to attempt to help the situation and create relationships between OSC script developers and event runners.
 
 ## For Club Owners / Event Runners / DJs / Club Patrons 
-Feel free to submit your club world to this list by either:
-* If comfortable, edit the [Blacklist file](https://github.com/cyberkitsune/chatbox-club-blacklist/blob/master/npblacklist.json) here on Github and create a pull request.
-* Creating a [Github Issue](https://github.com/cyberkitsune/chatbox-club-blacklist/issues/new/choose) to have the world added, if you do not wish to create a pull request.
-  * Please submit only one world per issue, to make spot-checking everything a bit easier!
-* Contact CyberKitsune on Discord so I can add the world on your behalf, using my #club-blacklist channel on my OSC Projects Server: [Invite Link](https://discord.gg/QhTpc8Zz)
+Feel free to submit your club world to this list by **either**:
+* Creating a [Github Issue](https://github.com/cyberkitsune/chatbox-club-blacklist/issues/new/choose) to have the world added.
+    * Please submit only one world per issue, to make spot-checking everything a bit easier!
+* Contacting CyberKitsune on Discord so I can add the world on your behalf, using my #club-blacklist channel on my OSC Projects Server: [Invite Link](https://discord.gg/QhTpc8Zz)
+* Editing the [Blacklist file](https://github.com/cyberkitsune/chatbox-club-blacklist/blob/master/npblacklist.json) here on Github and creating a pull request.
+
 
 ## For Players
 If you want to use an OSC Now Playing chatbox that utilizes this list, here's a non-comprehensive list (OSC Devs feel free to PR your script too):
